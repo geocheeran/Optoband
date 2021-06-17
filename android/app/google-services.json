@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865088597419",
+    "project_id": "optoband-d673e",
+    "storage_bucket": "optoband-d673e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865088597419:android:f24589c477a22c0bb176ee",
+        "android_client_info": {
+          "package_name": "com.kndcse.opto_band"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865088597419-kup8pnnak3va87sftkku0cmp6jnf1jho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Px3JrjKT7u7NbHNSYBO8cytiHvrxMjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865088597419-kup8pnnak3va87sftkku0cmp6jnf1jho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
