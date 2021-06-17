@@ -10,5 +10,9 @@ Permissions
 Location
 Storage
 Telephony manager
+Internet connectivity
 
 The app calculate the internet speed and upload it to the firebase along with the phone details.
+version -1.0
+Updated on 21/02/2021
+
